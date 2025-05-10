@@ -1,0 +1,15 @@
+<script>start("/Users/dr.t/Desktop/streamlit_trials/venv/assets/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("pics","pics",1,384,"384 B",1746807741,"09/05/2025, 18:22:21");</script>
+<script>addRow("1 NCD_RisC_Lancet_2024_BMI_female_age_specific_country.csv","1%20NCD_RisC_Lancet_2024_BMI_female_age_specific_country.csv",0,62915629,"60.0 MB",1746523120,"06/05/2025, 11:18:40");</script>
+<script>addRow("2 NCD_RisC_Lancet_2024_BMI_male_age_specific_country.csv","2%20NCD_RisC_Lancet_2024_BMI_male_age_specific_country.csv",0,63093763,"60.2 MB",1746523116,"06/05/2025, 11:18:36");</script>
+<script>addRow("NCD_RisC_Lancet_2024_BMI_age_standardised_American Samoa.csv","NCD_RisC_Lancet_2024_BMI_age_standardised_American%20Samoa.csv",0,43571,"42.5 kB",1746457055,"05/05/2025, 16:57:35");</script>
+<script>addRow("NCD_RisC_Lancet_2024_BMI_age_standardised_Cook Islands.csv","NCD_RisC_Lancet_2024_BMI_age_standardised_Cook%20Islands.csv",0,43462,"42.4 kB",1746457055,"05/05/2025, 16:57:35");</script>
+<script>addRow("NCD_RisC_Lancet_2024_BMI_age_standardised_French Polynesia.csv","NCD_RisC_Lancet_2024_BMI_age_standardised_French%20Polynesia.csv",0,43707,"42.7 kB",1746457055,"05/05/2025, 16:57:35");</script>
+<script>addRow("NCD_RisC_Lancet_2024_BMI_age_standardised_Japan.csv","NCD_RisC_Lancet_2024_BMI_age_standardised_Japan.csv",0,43798,"42.8 kB",1746447365,"05/05/2025, 14:16:05");</script>
+<script>addRow("NCD_RisC_Lancet_2024_BMI_age_standardised_Nauru.csv","NCD_RisC_Lancet_2024_BMI_age_standardised_Nauru.csv",0,43028,"42.0 kB",1746457055,"05/05/2025, 16:57:35");</script>
+<script>addRow("NCD_RisC_Lancet_2024_BMI_age_standardised_region.csv","NCD_RisC_Lancet_2024_BMI_age_standardised_region.csv",0,309386,"302 kB",1746345580,"04/05/2025, 09:59:40");</script>
+<script>addRow("NCD_RisC_Lancet_2024_BMI_age_standardised_Tokelau.csv","NCD_RisC_Lancet_2024_BMI_age_standardised_Tokelau.csv",0,43096,"42.1 kB",1746457055,"05/05/2025, 16:57:35");</script>
+<script>addRow("NCD_RisC_Lancet_2024_BMI_age_standardised_Tonga.csv","NCD_RisC_Lancet_2024_BMI_age_standardised_Tonga.csv",0,43048,"42.0 kB",1746457055,"05/05/2025, 16:57:35");</script>
+<script>addRow("NCD_RisC_Lancet_2024_BMI_age_standardised_United States of America.csv","NCD_RisC_Lancet_2024_BMI_age_standardised_United%20States%20of%20America.csv",0,44339,"43.3 kB",1746447365,"05/05/2025, 14:16:05");</script>
+<script>addRow("NCD_RisC_Lancet_2024_BMI_age_standardised_world.csv","NCD_RisC_Lancet_2024_BMI_age_standardised_world.csv",0,39137,"38.2 kB",1746346508,"04/05/2025, 10:15:08");</script>
